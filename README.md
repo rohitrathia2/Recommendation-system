@@ -1,1 +1,2 @@
 # Recommendation-system
+A recommendation system that suggests personalized items to users based on their preferences or behavior. This project implements core techniques such as content-based filtering, collaborative filtering, and hybrid models. It includes data preprocessing, similarity computation, and evaluation metrics to assess recommendation quality. Built using Python with libraries like pandas, scikit-learn, and optionally Surprise or TensorFlow for advanced models.
